@@ -1,15 +1,15 @@
 # RecreerPokemon
 
-Pour le cours E14 chez au Collège Multihexa, j'ai décidé de recreer une partie des jeux de Pokemon.
+In my program, we had to learn one language or framework on our own. I choose UNITY. Either to satisfy my gaming passion or to challenge me even more while doing something that we haven't done before.
 
-J'ai réussit à faire le plus simple, le joueur se déplace sur une carte et il y a des interractions avec un autre personnage ou un random encounter avec un Pokemon.
+For the purpose of the exercice, I decided te recreate the basis of a pokemon game. 
+So far, I have been able to create the main walking scene.
+Basically, one caracter moving around. There is an interaction with a NPC and a random encounter with a "pokemon".
 
-Les 2 interractions déclenche un événement.
 
-Bien que ce soit simple et incomplet, Je suis bien faire de ce que j'ai accomplit.
+Of course the real pokemon artwork would be out of price and I had only four weeks to learn and create somethine completely new. So I decided to go for something less expensive. 
+ArtWork by Shubibubi : https://shubibubi.itch.io/
 
-ArtWork par Shubibubi : https://shubibubi.itch.io/
+To start playing, launch : RecreatingPokemon.exe
 
-Pour commencer à jouer : RecreatingPokemon.exe
-
-Les instructions pour jouer sont écrites sur l'interface du jeu. Prenez les temps de lire!
+The instruction are writen in the UI. Please take your time to read it!
